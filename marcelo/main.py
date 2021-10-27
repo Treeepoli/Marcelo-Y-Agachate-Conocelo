@@ -1,6 +1,8 @@
 # Discord Bot: Marcelo (Y Agachate Conocelo)
 # Author: Davide D'Angelo
 
+NzgyNjAwNjQ5NzM2MTkyMDAw.X8Ojpg.12e5lkbHGoAiyi5ZlisW1zYlsCQ
+
 import asyncio
 import discord
 from discord.ext import commands
